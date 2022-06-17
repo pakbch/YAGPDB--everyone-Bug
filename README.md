@@ -1,4 +1,4 @@
-# YAGPDB--everyone-Bug
+# YAGPDB-everyone-Bug
 The bot will ping @everyone in the server bug
 
 
